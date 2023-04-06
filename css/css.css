@@ -71,8 +71,9 @@ input[type='text'] {
 }
 @media (max-width: 600px) {
     .container{
-        width: 450px;
+        width: 380px;
         text-align: center;
+        height: 700px;
 
     }
     #submit-button{
